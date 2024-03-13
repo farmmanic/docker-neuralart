@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190515
 MAINTAINER Mike Bartoli "michael.bartoli@pomona.edu"
 RUN apt-get update
 RUN apt-get -y install \
